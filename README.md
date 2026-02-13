@@ -1,16 +1,15 @@
-## Hi there 👋
+# Bahadır Baş
 
-<!--
-**basbahadir311/basbahadir311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student (2nd Year)
 
-Here are some ideas to get you started:
+## 🔧 Technologies
+- C, C++
+- React Native (Expo)
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projects
+- Mobile Holiday App (React Native)
+- Mobile ToDo App
+
+Currently improving my mobile development and problem-solving skills.
